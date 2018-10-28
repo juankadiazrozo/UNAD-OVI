@@ -1,0 +1,27 @@
+.uno > li
+{
+	display: block;
+	float: left;
+    list-style: none;
+    height: 20px;
+    overflow: hidden;
+	}
+.uno > li:hover{
+	height: auto;
+
+}
+
+.dos > li
+{
+	list-style: none;
+	margin-left: -30px;
+		}
+
+.uno > li >a {
+	width: 100px;
+	display: block;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
